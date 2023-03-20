@@ -1,0 +1,24 @@
+{
+  "name": "multiple-lists-with-drag-and-drop",
+  "version": "0.0.15",
+  "description": "An example of having multiple drop targets using react-beautiful-dnd",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/k260nyxq9v",
+  "main": "index.js",
+  "dependencies": {
+    "@seznam/compose-react-refs": "1.0.6",
+    "boundless": "1.1.0",
+    "react": "18.2.0",
+    "react-beautiful-dnd": "13.1.1",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
